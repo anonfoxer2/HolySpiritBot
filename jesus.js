@@ -17,7 +17,7 @@ const bot = new commando.Client({
 
 bot.on('ready', ( ) => {
     bot.user.setActivity('Im quite hungry!');
-    console.log("FlumeBot Online! v2.5.5 ");
+    console.log("Praise jesus!");
 })
 
 
